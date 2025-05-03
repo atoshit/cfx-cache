@@ -1,5 +1,7 @@
 # cfx-cache
 
+Quite simple cache system with send event automatically to the client when using the set method to be able to synchronize data between the client and the server.
+
 # Use
 ## Create
 ```lua
